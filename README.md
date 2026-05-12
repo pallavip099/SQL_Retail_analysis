@@ -57,7 +57,8 @@ The following queries address key business questions and analyze retail data:
 
 <img width="363" height="212" alt="Image" src="https://github.com/user-attachments/assets/25958378-ab76-4724-ad3a-7db7c7f4a695" />
 
-
+#### OUTPUT
+<img width="245" height="135" alt="Image" src="https://github.com/user-attachments/assets/74740678-7688-482e-85e3-5d175008baf7" />
 
 
 
